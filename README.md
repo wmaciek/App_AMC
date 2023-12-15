@@ -1,2 +1,2 @@
 # App_AMC
-Streamlit for poster
+Streamlit for poster: https://amcposter.streamlit.app/
